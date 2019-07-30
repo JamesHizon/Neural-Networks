@@ -1,4 +1,4 @@
-# Neural-Networks
+# Neural Networks
 This repository will include all neural network projects that I am going to work on via Udemy.
 
 Given that my labtop is currently being fixed, and the online compiler from jupyter notebook does not have keras,
@@ -11,3 +11,26 @@ Udemy: Applied Machine Learning for Healthcare
 Udemy: PyTorch for Deep Learning with Python Bootcamp.
 
 Expect more projects to be uploaded in the future.
+
+# Heart Disease Prediction
+
+Constructed neural network to train and test data of patients that have heart disease.
+Observed different levels of heart disease, and decided to separate into just two categories:
+Instead of :
+1) Not having heart disease
+2) Low levels of HD
+3) Med levels
+4) High levels
+
+We worked with binary classification to train data:
+
+1) Not having heart disease
+2) Has heart disease.
+
+By working with this, we observed an increase in the accuracy of our model for predictions.
+
+# Neural Network (Binary Classification for Color Determination)
+
+Created a neural network that classifies whether a flower is red or blue.
+It will always be a random number. We also randomly generated phrases to go along with determining if a flower is red or blue.
+
