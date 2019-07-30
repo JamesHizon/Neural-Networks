@@ -22,6 +22,8 @@ Instead of :
 3) Med levels
 4) High levels
 
+<img src="https://www.uchicagomedicine.org/-/media/images/ucmc/content-hub-shared/articles/coronary-artery-disease.jpg?la=en&amp;hash=CBF52DBD551457FF166CD5586D32132605EE815F" alt="Coronary artery disease"/>
+
 We worked with binary classification to train data:
 
 1) Not having heart disease
