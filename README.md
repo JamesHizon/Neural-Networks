@@ -36,3 +36,5 @@ By working with this, we observed an increase in the accuracy of our model for p
 Created a neural network that classifies whether a flower is red or blue.
 It will always be a random number. We also randomly generated phrases to go along with determining if a flower is red or blue.
 
+<img src="https://cdn.atwilltech.com/flowerdatabase/r/red-wuite-blue-roses-bridal-bouquet.425.jpg" alt="RED WHITE &amp; BLUE ROSES BRIDAL BOUQUET"/>
+
